@@ -21,3 +21,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+## Example:
+
+<img width="1376" alt="Screenshot 2025-04-02 at 11 50 02 AM" src="https://github.com/user-attachments/assets/e7aa5167-829d-49a4-91c2-3e1ae666c8fe" />
